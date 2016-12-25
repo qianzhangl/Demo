@@ -16,6 +16,7 @@
 		C10D803C1E0FBF48005B9793 /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C10D803B1E0FBF48005B9793 /* DemoTests.m */; };
 		C10D80471E0FBF49005B9793 /* DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C10D80461E0FBF49005B9793 /* DemoUITests.m */; };
 		C10D80561E0FBF9D005B9793 /* DemoView.m in Sources */ = {isa = PBXBuildFile; fileRef = C10D80551E0FBF9D005B9793 /* DemoView.m */; };
+		C10D80591E0FC056005B9793 /* OneView.m in Sources */ = {isa = PBXBuildFile; fileRef = C10D80581E0FC056005B9793 /* OneView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		C10D80481E0FBF49005B9793 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C10D80541E0FBF9D005B9793 /* DemoView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoView.h; sourceTree = "<group>"; };
 		C10D80551E0FBF9D005B9793 /* DemoView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoView.m; sourceTree = "<group>"; };
+		C10D80571E0FC056005B9793 /* OneView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneView.h; sourceTree = "<group>"; };
+		C10D80581E0FC056005B9793 /* OneView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				C10D80281E0FBF48005B9793 /* ViewController.m */,
 				C10D80541E0FBF9D005B9793 /* DemoView.h */,
 				C10D80551E0FBF9D005B9793 /* DemoView.m */,
+				C10D80571E0FC056005B9793 /* OneView.h */,
+				C10D80581E0FC056005B9793 /* OneView.m */,
 				C10D802A1E0FBF48005B9793 /* Main.storyboard */,
 				C10D802D1E0FBF48005B9793 /* Assets.xcassets */,
 				C10D802F1E0FBF48005B9793 /* LaunchScreen.storyboard */,
@@ -280,6 +285,7 @@
 			files = (
 				C10D80291E0FBF48005B9793 /* ViewController.m in Sources */,
 				C10D80561E0FBF9D005B9793 /* DemoView.m in Sources */,
+				C10D80591E0FC056005B9793 /* OneView.m in Sources */,
 				C10D80261E0FBF48005B9793 /* AppDelegate.m in Sources */,
 				C10D80231E0FBF48005B9793 /* main.m in Sources */,
 			);
